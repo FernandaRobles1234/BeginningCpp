@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section10" Database="" Version="10000">
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
   <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
-  <Project Name="ChallengeAssignement" Path="ChallengeAssignement/ChallengeAssignement.project" Active="No"/>
+  <Project Name="ChallengeAssignement" Path="ChallengeAssignement/ChallengeAssignement.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
