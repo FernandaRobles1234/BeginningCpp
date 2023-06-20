@@ -1,3 +1,3 @@
-C:\Users\fieri\Documents\BeginningCpp\Section10\ChallengeAssignement\main.cpp
-C:\Users\fieri\Documents\BeginningCpp\Section10\Challenge2\main.cpp
-C:\Users\fieri\Documents\BeginningCpp\Section10\Challenge\main.cpp
+C:\Users\fieri\Documents\ProgrammingProyects\BeginningCpp\Section10\ChallengeAssignement\main.cpp
+C:\Users\fieri\Documents\ProgrammingProyects\BeginningCpp\Section10\Challenge2\main.cpp
+C:\Users\fieri\Documents\ProgrammingProyects\BeginningCpp\Section10\Challenge\main.cpp
